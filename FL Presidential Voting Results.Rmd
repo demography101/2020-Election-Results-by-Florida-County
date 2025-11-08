@@ -1,9 +1,3 @@
----
-title: "FL Voters"
-output: html_document
-date: "2023-07-04"
----
-
 ```{r}
 
 install.packages("tidycensus")
